@@ -11,10 +11,7 @@ part_5_methods_and_tools_of_engineering_of_intelligent_computer_systems_new_gene
     <- concept_reusable_source_code_component;
 
     => nrel_sc_identifier: [Часть 5 Стандарта OSTIS. Методы и средства проектирования интеллектуальных компьютерных систем нового поколения](* <- lang_ru;; *);
-    //библиотека многократно используемых компонентов ostis-систем
-    //многократно используемый компонент ostis-систем
-    //многократно используемый компонент баз знаний ostis-систем
-   
+    
     -> rrel_key_sc_element: concept_reusable_library_of_ostis_system_components;
     -> rrel_key_sc_element: concept_reusable_ostis_system_component;
     -> rrel_key_sc_element: concept_reusable_ostis_system_kb_component;
